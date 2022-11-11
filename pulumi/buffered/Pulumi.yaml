@@ -1,0 +1,3 @@
+name: blog-aws-lambda-streaming-buffered
+description: A minimal TypeScript Pulumi program
+runtime: nodejs

@@ -1,0 +1,12 @@
+{
+    "name": "aws-lambda-streaming",
+    "main": "index.ts",
+    "devDependencies": {
+        "@types/node": "^14"
+    },
+    "dependencies": {
+        "@pulumi/aws": "^5.19.0",
+        "@pulumi/aws-native": "^0.40.2",
+        "@pulumi/pulumi": "^3.0.0"
+    }
+}

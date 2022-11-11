@@ -1,0 +1,3 @@
+name: aws-lambda-streaming
+description: A minimal TypeScript Pulumi program
+runtime: nodejs
